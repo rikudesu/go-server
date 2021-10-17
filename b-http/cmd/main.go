@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rikudesu/go-server/client"
+	"github.com/rikudesu/go-server/b-http/client"
 )
 
 func main() {
